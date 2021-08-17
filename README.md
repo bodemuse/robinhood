@@ -28,7 +28,7 @@ Increased adoption of online and mobile platforms for stocks, crypto and other s
 ### **Porter's Five Forces Analysis of the Online Brokerage Industry.**
 
 ***Bargaining power of buyers:*** (Low) \
-Buyers are fragmented and have weaker bargaining.
+Buyers consists of retail investors with an customer average age of 30. It is a fragmented market and buyers have weak bargaining power on price.
 
 ***Bargaining power of suppliers:*** (Low) \
 Robinhood executes its customers trade by routing orders to market makers instead of exchanges diretly. Maeket makers offer rebates to attract investors. With stiff competition amoung market makers bargaining power to push price lower is weak
@@ -116,5 +116,28 @@ On S-1 filling, CBSinsights noted Robinhood captured $522M in revenue in the fir
 
 ***Source:*** *CBinsights*
 
+
 ## **Recommendations**
 
+***Implementation of Social Investing Feature:***
+
+In January 28, 2021, a short squeeze resulted in a 1500% increase in Gamestop share price over a two-weeks trading period reaching an all time high of intra day high of $483. This was a result of a coordinated effort on reddit community r/wallstreetbets, a subbreddit group dedicated to high risk investing. Boosting over 10.7 million members, it harnesses the power of social trading and investing to put upward pressure on the price of stocks and crypto such as GME, AMC, Dogecoin and others. Further research on social investing and trading would help Robinhood determine risks and benefits associated with implementing features that allows social investing and copy trading on its platform.
+
+***Robo Advisory***
+
+The global robo-advisory industry was valued at $4.51 billion in 2019 and projected to reach $41.07 billion in 2027. [4](https://www.alliedmarketresearch.com/robo-advisory-market) 
+
+Robinhood can leverage on it's competence in technology to utilise algorithms to recommend financial assests likely to outperform based on buying trends to its customers - 80% are millenials and have historically shown less risk aversion to social trading than their older peers. Another approach to entering the roboadvisory market is through merger or acquisition of a high performing start up.
+
+
+***References***
+
+https://craft.co/robinhood
+
+https://research-assets.cbinsights.com/2021/07/06112215/Robinhood-accounts.png
+
+https://www.ibisworld.com/united-states/market-research-reports/online-stock-brokerages-industry
+
+https://marker.medium.com/how-robinhood-convinced-millennials-to-trade-their-way-through-a-pandemic-1a1db97c7e08
+
+https://www.alliedmarketresearch.com/robo-advisory-market
