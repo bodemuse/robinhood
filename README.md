@@ -19,8 +19,10 @@ It started out by providing commission free trades of stock and exchange traded 
 
 
 ## **Industry Analysis**
-The global finanacial technology market is expected to grow gradually and reach a market value estimated at $324
-billion by 2026 with a compound annual growth rate of of 23.41%.
+
+Historical performance of the online brokerage industry shows an increase in revenue at an annualised rate of 9.9% to $14.0 billion with an increase of 5.9% in 2021.
+
+Increased adoption of online and mobile platforms for stocks, crypto and other securities trading (financial instruments that can be traded on an exchange) underpinned this trend. Demand trend for trading platforms is correlated to the performance of the market. Over the five years to 2021, S&P 500 is expected to increase at an annualized rate of 12.9%. [3](https://www.ibisworld.com/united-states/market-research-reports/online-stock-brokerages-industry/)
 
 
 ### **Porter's Five Forces Analysis of the Online Brokerage Industry.**
@@ -32,7 +34,7 @@ Buyers are fragmented and have weaker bargaining.
 Robinhood executes its customers trade by routing orders to market makers instead of exchanges diretly. Maeket makers offer rebates to attract investors. With stiff competition amoung market makers bargaining power to push price lower is weak
 
 ***Competitive rivalry:*** (High) \
-Competition in the online financial services brokerage is high with the strong major players such as eToro, River Finanacial, Coinbase, Charles Schwab & eTrade. They compete similarly in products and low fees to customers.
+Competition in the online financial services brokerage is high with the strong major players such as eToro, River Finanacial, Coinbase, Charles Schwab, TD Ameritrade & eTrade. They compete similarly in products and low fees to customers.
 
 ***Threat of substitute:*** (High) \
 Online brokerage services exist to help retail investors access investment opportunities with low capital and low fees. Retail investors can access investment opportunities through their banks trading platforms, superannuation and pension funds with low capital and minimal fees.
@@ -64,7 +66,16 @@ According to it's website, Robinhood receives a fee from the interchange fee it'
 ***Others:***  
 Other revenue streams includes proxy services and fees.
 
-WTP & COST
+### **Differentiation Strategy**
+### **Easy of use**
+Robinhood's app simplicity is a key driver for its adoption among millenial customers. It's interface features a clean simple, phone centric interface and swift onboarding process. [2](https://marker.medium.com/how-robinhood-convinced-millennials-to-trade-their-way-through-a-pandemic-1a1db97c7e08) 
+
+### **Customer Incentives**
+Robinhood promises free stock to new accounts - a single unit share of company picked at random. The stock is typically valued between $2.50 to $10
+
+### **Cost Strategy**
+Freemium Service on commissions and fees.
+
 
 ## **Robinhood Positioning:**
 
@@ -73,12 +84,11 @@ WTP & COST
         Broad Market         x             x
         Narrow Market
 
-Robinhood offers no commmission, no fees trading hence are low cost service providers. It serves a broad consumer market and differentiates itself from competitors by its the ease of use, simplicity of its trading platform and levarge on technology.
+Robinhood offers no commmission, no fees trading hence are low cost service providers. It serves a broad consumer market and differentiates itself from competitors by its the ease of use, simplicity of its trading platform and levarge on technology. 
 
 
-## **Resources Capabilities and Competencies**
 
-### **Core technologies**
+## **Core Technologies**
 **Application and data:** Python, React, NGINX, Amazon, Django
 
 **Utilities:**
@@ -88,9 +98,23 @@ Google Analytics, Elaticsearch, Retrofit
 RVIO Framework.
 
 
+## **Key Success Metrics for the online brokerage industry** ##
 
-## Impact
 
-## Strategic Options
+***Customer acquistion cost***: Robinhood has been able to keep its customer's acquisition cost lower than those of retail brokerages by using a strong referral program. CBS insights estimates that "Robinhood's average cost to acquire a new funded account  dropped 60% from $53 in fiscal 2019 to $20 in 2020. In the first quaters of 2020 and 2021 the average CAC halved from $32 to $15"
 
-PARTS & Game Theory
+***Lifetime Value***: The median customer account size is $240. The average customer account size is about $5000
+
+***Monthly Active User***: 
+Data from 2017 - 2020 shows Robinhood monthly active users have increased from 1.8 in 2017 to 11.7 in 2020, a 550% increase in monthly user activity.  
+
+***Total Revenue***:
+On S-1 filling, CBSinsights noted Robinhood captured $522M in revenue in the first quarter of 2021, quadruple the amount from Q1’20 — though net losses soared from $53M to $1.4B over the same period. Within Robinhood’s Q1’21 order revenue, options trading accounted for the largest share (38% of its total revenue), followed by stocks (26%) and cryptocurrencies (17%).
+
+
+![](https://research-assets.cbinsights.com/2021/07/06112039/Robinhood-MAU-and-revenues.jpg)
+
+***Source:*** *CBinsights*
+
+## **Recommendations**
+
