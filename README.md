@@ -25,8 +25,8 @@ Increased adoption of online and mobile platforms for stocks, crypto and other s
 
 ### **Porter's Five Forces Analysis of the Online Brokerage Industry.**
 
-***Bargaining power of buyers:*** (Low) \
-Buyers consists of retail investors with an customer average age of 30. It is a fragmented market and buyers have weak bargaining power on price.
+***Bargaining power of buyers:*** (High) \
+Buyers consists of retail investors with an customer average age of 30. It is a fragmented market but with availability of subsitutes and low switching cost, customers are powerful.
 
 ***Bargaining power of suppliers:*** (Low) \
 Robinhood executes its customers trade by routing orders to market makers instead of exchanges diretly. Maeket makers offer rebates to attract investors. With stiff competition amoung market makers bargaining power to push price lower is weak
